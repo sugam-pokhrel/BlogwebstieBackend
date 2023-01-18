@@ -2,7 +2,9 @@ const  express=require('express');
 const body_parser=require('body-parser');
 const { urlencoded } = require('body-parser');
 // const Blog=require('./mongoose')
+//this is an ongoing project of blog website
 
+//the above are all the backend components
 
 const app=express();
 
